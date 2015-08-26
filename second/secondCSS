@@ -1,0 +1,72 @@
+html {
+  background: grey;
+}
+.textbox{
+  padding-top: 60px;
+  padding: 35px;
+  background: white;
+  margin-top: 20px;
+  margin: 30px;
+  height: 175px; 
+}
+.box{
+  height: 50px;
+  width: 100px;
+  display: inline-block;
+  margin-top: 65px;
+  font-family: arial;
+  line-height: 50px;
+  font-size: 25px
+}
+.box1{
+  background: #801A15;
+  text-align: center;
+  color: white;
+}
+.box2{
+  background: #545994;
+  text-align: center;
+  color: white;
+  margin-left: 10px
+}
+.bodyborder{
+  padding-top: 60px;
+  padding: 35px;
+  background: white;
+  margin-top: 20px;
+  margin: 30px;
+  height: 500px;  
+}
+.textbox1{
+  padding-top: 15px;
+  padding: px;
+  background: grey;
+  margin-top: 10px;
+  text-align: center;
+  color: white;
+ height: 200px;
+  line-height: 6;
+  font-size: 30px;
+}
+.entry{
+  margin-top: 50px
+}
+.tagline{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 70px;
+  background-color: black;
+  width: 100%;
+  line-height: 4;
+}
+#apple{
+  color: White;
+  float: right;
+  margin-right: 30px;
+}
+#google{
+  color: White;
+  float: right;
+  margin-right: 70px
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<div class="textbox">
+  <p>Lalksdjflaksdf asdflkjasdflkjasdf asdlfkjasdflkjasdf asdf laksdjf asdlf lsdkfj asldkfj asldfk asldkfj asldkfjasld falsdkfj asldkf ldkjflkasdfjlkadjflkasdjf lasdkf jalsdfkj asldfkj asldfk jalskdfj asldfj asdlfjk asf</p>
+  <div class="box box1">Click</div>
+  <div class="box box2">Click</div>
+</div>
+
+<div class="bodyborder">
+  <div class="textbox1">Insert Image</div>
+  <div class="entry"><p> dslkfjasdlfkjasdlfjasld;fkj asldkfjlasdk jflasdjkf ;lasdjkf lasddslkfjasdlfkjasdlfjasld;fkj asldk fjlasdk jflasdjkf ;lasdjkf lasddslkfjasdlfkjasdlfjasld;fkj asldk fjlasdk jflasdjkf ;lasdjkf lasddslkfjasdlfkjasdlfjasld;fkj asldk fjlasdk jflasdjkf ;lasdjkf lasddslkfjasdlfkjasdlfjasld;fkj asldk fjlasdk jflasdjkf ;lasdjkf lasddslkfjasdlfkjasdlfjasld;fkj asldk fjlasdk jflasdjkf ;lasdjkf lasddslkfjasdlfkjasdlfjasld;fkj asldk fjlasdk jflasdjkf ;lasdjkf lasddslkfjasdlfkjasdlfjasld;fkj asldk fjlasdk jflasdjkf ;lasdjkf lasddslkfjasdlfkjasdlfjasld;fkj asldk fjlasdk jflasdjkf ;lasdjkf lasddslkfjasdlfkjasdlfjasld;fkj asldk fjlasdk jflasdjkf ;lasdjkf lasddslkfjasdlfkjasdlfjasld;fkj asldk fjlasdk jflasdjkf ;lasdjkf lasddslkfjasdlfkjasdlfjasld;fkj asldk fjlasdk jflasdjkf ;lasdjkf lasddslkfjasdlfkjasdlfjasld;fkj asldk fjlasdk jflasdjkf ;lasdjkf lasddslkfjasdlfkjasdlfjasld;fkj asldk fjlasdk jflasdjkf ;lasdjkf lasd </p>
+  </div>
+  
+  <div class="tagline">
+    <div id="google">Google</div>
+    <div id="apple">Apple</div>
+    
+</div>
+    
+    </html>
